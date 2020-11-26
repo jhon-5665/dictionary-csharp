@@ -1,0 +1,13 @@
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\bin\Debug\netcoreapp3.1\dictionary-csharp.exe
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\bin\Debug\netcoreapp3.1\dictionary-csharp.deps.json
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\bin\Debug\netcoreapp3.1\dictionary-csharp.runtimeconfig.json
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\bin\Debug\netcoreapp3.1\dictionary-csharp.runtimeconfig.dev.json
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\bin\Debug\netcoreapp3.1\dictionary-csharp.dll
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\bin\Debug\netcoreapp3.1\dictionary-csharp.pdb
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\obj\Debug\netcoreapp3.1\dictionary-csharp.csprojAssemblyReference.cache
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\obj\Debug\netcoreapp3.1\dictionary-csharp.AssemblyInfoInputs.cache
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\obj\Debug\netcoreapp3.1\dictionary-csharp.AssemblyInfo.cs
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\obj\Debug\netcoreapp3.1\dictionary-csharp.csproj.CoreCompileInputs.cache
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\obj\Debug\netcoreapp3.1\dictionary-csharp.dll
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\obj\Debug\netcoreapp3.1\dictionary-csharp.pdb
+C:\Users\estoque.bhe\source\repos\dictionary-csharp\dictionary-csharp\obj\Debug\netcoreapp3.1\dictionary-csharp.genruntimeconfig.cache
